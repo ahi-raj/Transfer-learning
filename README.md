@@ -19,6 +19,9 @@ data_dir = tf.keras.utils.get_file('flower_photos', origin=dataset_url,  cache_d
 # untar true will unzip it
 ```
 Read flowers images from disk into numpy array using opencv
+
 Preprocess and split the dataset for traning and testing
+
 Retrain the flower images on pretrained mobilenet v2 model using feature vector
+
 After compiling the model the training accuracy of 92% is achieved and testing accuracy of 86%
