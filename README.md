@@ -9,3 +9,6 @@ classifier = tf.keras.Sequential([
 Make a classification prediction using a zebra image
 
 <img src="https://user-images.githubusercontent.com/94126896/174535366-f614d5db-1232-43e1-a6be-d2ca30897c7c.jpg" width="50%" height="50%"/>
+
+## Load flowers dataset 
+From: https://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos
