@@ -13,3 +13,5 @@ Make a classification prediction using a zebra image
 
 [[https://image-url.type](https://user-images.githubusercontent.com/94126896/174533564-decc7846-136d-4ab5-abff-ffdad831a20e.jpg|width=400px]]
 [[link|width=400px]]
+
+<img src="https://your-image-url.type" width="100" height="100">
