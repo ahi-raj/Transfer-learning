@@ -7,6 +7,5 @@ classifier = tf.keras.Sequential([
 ])
 ```
 Make a classification prediction using a zebra image
-![alt text](http://url/to/img.png](https://github.com/ahi-raj/Transfer-learning/blob/main/zebra.jpg?raw=true)
-![zebra](https://user-images.githubusercontent.com/94126896/174533564-decc7846-136d-4ab5-abff-ffdad831a20e.jpg)
+![zebra](https://user-images.githubusercontent.com/94126896/174533564-decc7846-136d-4ab5-abff-ffdad831a20e.jpg) { width=50% }
 
